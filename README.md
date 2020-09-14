@@ -6,6 +6,7 @@ A custom collection of Corona Cases for Pune City
 - Timeseries - A series of different parameters collected through the day ...
 - Wardwise - Series of electoral ward wise distribution
 - Agewise - Series of Agewise cases
+- TimeseriesOld - Apr,May,Jun,Jul data (Because the client can't handle data over 2GB)
 
 <br><hr>
 ## Sources
